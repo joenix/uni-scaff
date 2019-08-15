@@ -1,0 +1,8 @@
+@import 'variables.scss';
+@import 'keyframes.scss';
+@import 'functions.scss';
+@import 'mixins.scss';
+
+.page {
+  background: $uni-color-success;
+}
